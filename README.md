@@ -2,7 +2,7 @@
 ## A Portfolio SQL Project
 
 ### Project Brief:
-Create a MySQL database that efficiently manages holiday accommodation bookings, covering everything from property listings to payments.
+Design and implement a MySQL database that solves a real-world problem, using a unique and creative solution. The database should demonstrate practical usage, with a focus on effective design and functionality.
 
 ### Description
 
